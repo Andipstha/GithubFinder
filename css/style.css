@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto";
+}
+
+body {
+  background-color: #eee;
+  background: radial-gradient(circle, #939292 0%, black 100%);
+}
